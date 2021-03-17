@@ -1,4 +1,4 @@
-# leetcode-practice
+# leetcode-practice(javascript)
 
 Leetcode problem practice(JavaScript)
 
