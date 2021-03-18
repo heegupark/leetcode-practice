@@ -34,4 +34,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/501-find-mode-in-binary-search-tree.js">501. Find Mode in Binary Search Tree</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/509-fibonacci-number.js">501. Find Mode in Binary Search Tree</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/509-fibonacci-number.js">509. Fibonacci Number</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/521-longest-uncommon-subsequence-i.js">521. Longest Uncommon Subsequence I</a>
