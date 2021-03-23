@@ -48,6 +48,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/561-array-partition-I.js">561. Array Partition I</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/572-subtree-of-another-tree.js">572. Subtree of Another Tree</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/575-distribute-candies.js">575. Distribute Candies</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/589-nary-tree-preorder-traversal.js">589. N-ary Tree Preorder Traversal</a>
