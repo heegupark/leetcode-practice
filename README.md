@@ -71,3 +71,5 @@ Leetcode problem practice(JavaScript)
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/693-binary-number-with-alternating-bits.js">693. Binary Number with Alternating Bits</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/696-count-binary-substrings.js">696. Count Binary Substrings</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/110-balanced-binary-tree.js">110. Balanced Binary Tree</a>
