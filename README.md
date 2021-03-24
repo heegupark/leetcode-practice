@@ -67,3 +67,5 @@ Leetcode problem practice(JavaScript)
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/653-two-sum-IV-input-is-a-BST.js">653. Two Sum IV - Input is a BST</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/682-baseball-game.js">682. Baseball Game</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/693-binary-number-with-alternating-bits.js">693. Binary Number with Alternating Bits</a>
