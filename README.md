@@ -62,6 +62,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/637-average-of-levels-in-binary-tree.js">637. Average of Levels in Binary Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/637-average-of-levels-in-binary-tree.js">637. Average of Levels in Binary Tree</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/653-two-sum-IV-input-is-a-BST.js">653. Two Sum IV - Input is a BST</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/657-robot-return-origin.js">657. Robot Return to Origin</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/682-baseball-game.js">682. Baseball Game</a>
