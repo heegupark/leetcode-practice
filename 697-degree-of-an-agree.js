@@ -18,6 +18,7 @@
 // Explanation:
 // The degree is 3 because the element 2 is repeated 3 times.
 // So [2,2,3,1,4,2] is the shortest subarray, therefore returning 6.
+
 /**
  * @param {number[]} nums
  * @return {number}
