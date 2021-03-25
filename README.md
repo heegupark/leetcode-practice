@@ -77,3 +77,5 @@ Leetcode problem practice(JavaScript)
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/696-count-binary-substrings.js">696. Count Binary Substrings</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/697-degree-of-an-agree.js">697. Degree of an Array</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
