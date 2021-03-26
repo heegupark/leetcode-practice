@@ -24,6 +24,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/389-find-the-difference.js">389. Find the Difference</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/392-is-subsequence.js">392. Is Subsequence</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/415-add-strings.js">415. Add Strings</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/448-find-all-numbers-disappeared-in-an-array.js">448. Find All Numbers Disappeared in an Array</a>
