@@ -4,6 +4,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/9-palindrome-number.js">9. Palindrome Number</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/27-remove-element.js">27. Remove Element</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/100-same-tree.js">100. Same Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/110-balanced-binary-tree.js">110. Balanced Binary Tree</a>
