@@ -82,6 +82,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/697-degree-of-an-agree.js">697. Degree of an Array</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/700-search-in-a-binary-search-tree.js">700. Search in a Binary Search Treee</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/700-search-in-a-binary-search-tree.js">700. Search in a Binary Search Tree</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/720-longest-word-in-dictionary.js">720. Longest Word in Dictionary</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
