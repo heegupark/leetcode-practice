@@ -16,8 +16,7 @@
  * @return {string}
  */
 var reverseStr = function(s, k) {
-    let result = '';
-    let ascending = true;
+    let result = '', ascending = true;
     for(let i=0;i<s.length;i=i+k) {
         const word = s.slice(i,i+k);
         if(ascending) result += word.split('').reverse().join('');
