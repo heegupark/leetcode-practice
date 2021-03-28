@@ -86,4 +86,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/720-longest-word-in-dictionary.js">720. Longest Word in Dictionary</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/728-self-dividing-numbers.js">728. Self Dividing Numbers</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
