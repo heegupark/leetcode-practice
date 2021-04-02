@@ -100,6 +100,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/821-shortest-distance-to-a-character.js">821. Shortest Distance to a Character</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/824-goat-latin.js">824. Goat Latin</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1154-day-of-the-year.js">1154. Day of the Year</a>
