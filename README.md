@@ -10,6 +10,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/100-same-tree.js">100. Same Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/101-symmetric-tree.js">101. Symmetric Tree</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/110-balanced-binary-tree.js">110. Balanced Binary Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/167-two-sum-II-input-array-is-sorted.js">167. Two Sum II - Input Array is Sorted</a>
