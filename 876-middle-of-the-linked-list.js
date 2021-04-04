@@ -29,8 +29,8 @@ var middleNode = function(head) {
     let first = head;
     let second = head;
     while(second !== null && second.next !== null){
-        first = first.next
-        second = second.next.next
+        first = first.next;
+        second = second.next.next;
     }
-    return first
+    return first;
 };
