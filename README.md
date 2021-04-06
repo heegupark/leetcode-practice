@@ -112,9 +112,11 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/867-transpose-matrix.js">867. Transpose Matrix</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/876-middle-of-the-linked-list.js">876. Middle of the Linked List</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/893-groups-of-special-equivalent-strings.js">876. Middle of the Linked List</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/884-uncommon-words-from-two-sentences.js">884. Uncommon Words from Two Sentences</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/884-uncommon-words-from-two-sentences.js">893. Groups of Special-Equivalent Strings</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
 
