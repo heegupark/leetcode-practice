@@ -30,6 +30,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/349-intersection-of-two-arrays.js">349. Intersection of Two Arrays</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/374-guess-number-higher-or-lower.js">374. Guess Number Higher or Lower</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/389-find-the-difference.js">389. Find the Difference</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/392-is-subsequence.js">392. Is Subsequence</a>
