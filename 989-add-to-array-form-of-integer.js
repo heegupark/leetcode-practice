@@ -28,40 +28,32 @@
  * @param {number} k
  * @return {number[]}
  */
+/**
+ * @param {number[]} num
+ * @param {number} k
+ * @return {number[]}
+ */
 var addToArrayForm = function(num, k) {
     const tempArr = [], kArr = k.toString().split('');
     let up = 0;
+
+    const getSum = (sum) => {
+        if(sum > 9) {
+            up = 1;
+            sum -= 10;
+        } else {
+            up = 0;
+        }
+        tempArr.unshift(sum);
+        return up;
+    }
+
     while(kArr.length > 0 && num.length > 0) {
         const tempK = Number(kArr.pop()), tempN = Number(num.pop());
-        let sum = up + tempK + tempN;
-        if(sum > 9) {
-            up = 1;
-            sum -= 10;
-        } else {
-            up = 0;
-        }
-        tempArr.unshift(sum);
+        up = getSum(up + tempK + tempN);
     }
-    while(kArr.length>0) {
-        let sum = up + Number(kArr.pop());
-        if(sum > 9) {
-            up = 1;
-            sum -= 10;
-        } else {
-            up = 0;
-        }
-        tempArr.unshift(sum);
-    }
-    while(num.length>0) {
-        let sum = up + Number(num.pop());
-        if(sum > 9) {
-            up = 1;
-            sum -= 10;
-        } else {
-            up = 0;
-        }
-        tempArr.unshift(sum);
-    }
+    while(kArr.length>0) up = getSum(up + Number(kArr.pop()));
+    while(num.length>0) up = getSum(up + Number(num.pop()));
     if(up) tempArr.unshift(up);
     return tempArr;
 };
