@@ -126,6 +126,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/884-uncommon-words-from-two-sentences.js">893. Groups of Special-Equivalent Strings</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/896-monotonic-array.js">896. Monotonic Array</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add to Array-Form of Integer</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
