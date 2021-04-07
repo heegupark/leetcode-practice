@@ -102,6 +102,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/728-self-dividing-numbers.js">728. Self Dividing Numbers</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/744-find-smallest-letter-greater-than-target.js">744. Find Smallest Letter Greater Than Target</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/762-prime-number-of-set-bits-in-binary-representation.js">762. Prime Number of Set Bits in Binary Representation</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/796-rotate-string.js">796. Rotate String</a>
