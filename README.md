@@ -10,6 +10,10 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/70-climbing-stairs.js">70. Climbing Stairs</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/83-remove-duplicates-from-sorted-listjs">83. Remove Duplicates from Sorted List
+
+</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/100-same-tree.js">100. Same Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/101-symmetric-tree.js">101. Symmetric Tree</a>
