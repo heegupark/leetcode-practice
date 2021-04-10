@@ -66,6 +66,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/543-diameter-of-binary-tree.js">543. Diameter of Binary Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/551-student-attendance-record-I.js">551. Student Attendance Record I</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/559-maximum-depth-of-nary-tree.js">559. Maximum Depth of N-ary Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/561-array-partition-I.js">561. Array Partition I</a>
