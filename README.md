@@ -100,6 +100,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/720-longest-word-in-dictionary.js">720. Longest Word in Dictionary</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/724-find-pivot-index.js">724. Find Pivot Index</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/728-self-dividing-numbers.js">728. Self Dividing Numbers</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/744-find-smallest-letter-greater-than-target.js">744. Find Smallest Letter Greater Than Target</a>
