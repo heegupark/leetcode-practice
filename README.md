@@ -136,9 +136,7 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/905-sort-array-by-parity.js">905. Sort Array By Parity</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/908. Smallest Range I.js">908-smallest-range-I
-
-</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/908. Smallest Range I.js">908-smallest-range-I</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add to Array-Form of Integer</a>
 
