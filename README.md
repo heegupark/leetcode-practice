@@ -136,7 +136,7 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/905-sort-array-by-parity.js">905. Sort Array By Parity</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/908. Smallest Range I.js">908-smallest-range-I</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/908-smallest-range-I.js">908. Smallest Range I/a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/917-reverse-only-letters.js">917. Reverse Only Letters</a>
 
