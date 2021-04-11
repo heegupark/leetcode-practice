@@ -90,6 +90,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/617-merge-two-binary-trees.js">617. Merge Two Binary Trees</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/628-maximum-product-of-three-numbers.js">628. Maximum Product of Three Numbers</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/637-average-of-levels-in-binary-tree.js">637. Average of Levels in Binary Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/653-two-sum-IV-input-is-a-BST.js">653. Two Sum IV - Input is a BST</a>
