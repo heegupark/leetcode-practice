@@ -132,13 +132,15 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/836-rectangle-overlap.js">836. Rectangle Overlap</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/844-backspace-string-compare.js">844. Backspace String Compare</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/867-transpose-matrix.js">867. Transpose Matrix</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/893-groups-of-special-equivalent-strings.js">876. Middle of the Linked List</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/876-middle-of-the-linked-list.js">876. Middle of the Linked List</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/884-uncommon-words-from-two-sentences.js">884. Uncommon Words from Two Sentences</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/884-uncommon-words-from-two-sentences.js">893. Groups of Special-Equivalent Strings</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/893-groups-of-special-equivalent-strings.js">893. Groups of Special-Equivalent Strings</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/896-monotonic-array.js">896. Monotonic Array</a>
 
