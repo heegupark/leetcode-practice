@@ -154,6 +154,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/933-number-of-recent-calls.js">933. Number of Recent Calls</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/942-di-string-match.js">942. DI String Match</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add to Array-Form of Integer</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
