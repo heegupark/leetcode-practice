@@ -162,6 +162,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1033-moving-stones-until-consecutive.js">1033. Moving Stones Until Consecutive</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1128-number-of-equivalent-domino-pairs.js">1154. Day of the Year</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1160-find-words-that-can-be-formed-by-characters.js">1160. Find Words That Can Be Formed by Characters</a>
