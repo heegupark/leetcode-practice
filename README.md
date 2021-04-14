@@ -52,6 +52,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/448-find-all-numbers-disappeared-in-an-array.js">448. Find All Numbers Disappeared in an Array</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/459-repeated-substring-pattern.js">459. Repeated Substring Pattern</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/461-hamming-distance.js">461. Hamming Distance</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/476-number-complement.js">476. Number Complement</a>
