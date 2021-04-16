@@ -164,7 +164,9 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/944-delete-column-to-make-sorted">944. Delete Columns to Make Sorted</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/961-n-repeated-element-in-size-2n-array.js>9961. N-Repeated Element in Size 2N Array</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/961-n-repeated-element-in-size-2n-array.js>961. N-Repeated Element in Size 2N Array</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/965-univalued-binary-tree.js>965. Univalued Binary Tree</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add to Array-Form of Integer</a>
 
