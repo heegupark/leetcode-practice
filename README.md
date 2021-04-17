@@ -172,6 +172,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/965-univalued-binary-tree.js>965. Univalued Binary Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/977-squares-of-a-sorted-array.js>977. Squares of a Sorted Array</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add to Array-Form of Integer</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
