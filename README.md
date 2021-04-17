@@ -100,6 +100,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/653-two-sum-IV-input-is-a-BST.js">653. Two Sum IV - Input is a BST</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/671-second-mimimum-node-in-a-bianry-tree.js">671. Second Minimum Node In a Binary Tree</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/674-longest-continuous-increasing-subsequence.js">674. Longest Continuous Increasing Subsequence</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/682-baseball-game.js">682. Baseball Game</a>
