@@ -22,6 +22,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/110-balanced-binary-tree.js">110. Balanced Binary Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/112-path-sum.js">112. Path Sum</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection of Two Linked Lists</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/167-two-sum-II-input-array-is-sorted.js">167. Two Sum II - Input Array is Sorted</a>
