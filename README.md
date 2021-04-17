@@ -32,6 +32,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/226-invert-binary-tree.js">226. Invert Binary Tree</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/228-summary-ranges.js">228. Summary Ranges</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/258-add-digits.js">258. Add Digits</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/292-nim-game.js">292. NIM Game</a>
