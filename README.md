@@ -38,6 +38,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/258-add-digits.js">258. Add Digits</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/290-word-pattern.js">290. Word Pattern</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/292-nim-game.js">292. NIM Game</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/345-reverse-vowels-of-a-string.js">345. Reverse Vowels of a String</a>
