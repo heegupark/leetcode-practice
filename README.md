@@ -186,6 +186,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find the Town Judge</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1002-find-common-characters.js">1002. Find Common Characters</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1033-moving-stones-until-consecutive.js">1033. Moving Stones Until Consecutive</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1128-number-of-equivalent-domino-pairs.js">1154. Day of the Year</a>
