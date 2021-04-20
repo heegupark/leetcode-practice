@@ -6,6 +6,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/9-palindrome-number.js">9. Palindrome Number</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/20-valid-parentheses.js">20. Valid Parentheses</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/26-remove-duplicates-from-sorted-array.js">26. Remove Duplicates from Sorted Array</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/27-remove-element.js">27. Remove Element</a>
