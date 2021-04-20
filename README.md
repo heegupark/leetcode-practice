@@ -188,6 +188,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1002-find-common-characters.js">1002. Find Common Characters</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1013-partition-array-into-three-pars-with-equal-sum.js">1013. Partition Array Into Three Parts With Equal Sum</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1033-moving-stones-until-consecutive.js">1033. Moving Stones Until Consecutive</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1128-number-of-equivalent-domino-pairs.js">1154. Day of the Year</a>
