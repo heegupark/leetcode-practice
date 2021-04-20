@@ -197,3 +197,5 @@ Leetcode problem practice(JavaScript)
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1160-find-words-that-can-be-formed-by-characters.js">1160. Find Words That Can Be Formed by Characters</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1232-check-if-it-is-a-straight-line.js">1232. Check If It Is a Straight Line</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
