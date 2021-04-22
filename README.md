@@ -34,9 +34,7 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/171-excel-sheet-column-number.js">171. Excel Sheet Column Number</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/219-contains-duplicate-II.js">219. Contains Duplicate II
-
-</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/219-contains-duplicate-II.js">219. Contains Duplicate II</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/226-invert-binary-tree.js">226. Invert Binary Tree</a>
 
@@ -195,6 +193,8 @@ Leetcode problem practice(JavaScript)
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1002-find-common-characters.js">1002. Find Common Characters</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1013-partition-array-into-three-pars-with-equal-sum.js">1013. Partition Array Into Three Parts With Equal Sum</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1022-sum-of-root-to-leaf-binary-numbers.js">1022. Sum of Root To Leaf Binary Numbers</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1033-moving-stones-until-consecutive.js">1033. Moving Stones Until Consecutive</a>
 
