@@ -198,9 +198,11 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1033-moving-stones-until-consecutive.js">1033. Moving Stones Until Consecutive</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1046-last-stone-weight">1046. Last Stone Weight</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1046-last-stone-weight.js">1046. Last Stone Weight</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1046-last-stone-weight">1047-remove-all-adjacent-duplicates-in-string</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1047-remove-all-adjacent-duplicates-in-string.js">1047. Remove All Adjacent Duplicates In String</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1051-height-checker.js">1051. Height Checker</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1128-number-of-equivalent-domino-pairs.js">1154. Day of the Year</a>
 
