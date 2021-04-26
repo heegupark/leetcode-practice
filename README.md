@@ -204,6 +204,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1051-height-checker.js">1051. Height Checker</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1078-occurrences-after-bigram.js">1078. Occurrences After Bigram</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1128-number-of-equivalent-domino-pairs.js">1154. Day of the Year</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1160-find-words-that-can-be-formed-by-characters.js">1160. Find Words That Can Be Formed by Characters</a>
