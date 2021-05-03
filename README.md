@@ -60,7 +60,7 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/415-add-strings.js">415. Add Strings</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/411-arranging-coins.js">415. Add Strings</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/434-number-of-segments-in-a-string.js">434. Number of Segments in a String</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/448-find-all-numbers-disappeared-in-an-array.js">448. Find All Numbers Disappeared in an Array</a>
 
