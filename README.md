@@ -222,6 +222,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1200-minimum-absolute-difference.js">1200. Minimum Absolute Difference</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1207-unique-number-of-occurences.js">1232. Check If It Is a Straight Line</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1232-check-if-it-is-a-straight-line.js">1232. Check If It Is a Straight Line</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1315-sum-of-nodes-with-even-valued-grandparent.js">1315. Sum of Nodes with Even-Valued Grandparent</a>
