@@ -232,6 +232,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1287-element-appearing-more-than-25-in-sorted-array.js">1287. Element Appearing More Than 25% In Sorted Array</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1299-replace-elements-with-greatest-element-on-right-side.js">1299. Replace Elements with Greatest Element on Right Side</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1315-sum-of-nodes-with-even-valued-grandparent.js">1315. Sum of Nodes with Even-Valued Grandparent</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
