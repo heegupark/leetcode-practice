@@ -234,6 +234,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1299-replace-elements-with-greatest-element-on-right-side.js">1299. Replace Elements with Greatest Element on Right Side</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1304-find-n-unique-integers-sum-up-to-zero.js">1304. Find N Unique Integers Sum up to Zero</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1315-sum-of-nodes-with-even-valued-grandparent.js">1315. Sum of Nodes with Even-Valued Grandparent</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
