@@ -238,4 +238,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1315-sum-of-nodes-with-even-valued-grandparent.js">1315. Sum of Nodes with Even-Valued Grandparent</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers.js">1317. Convert Integer to the Sum of Two No-Zero Integers</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
