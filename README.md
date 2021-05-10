@@ -242,4 +242,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1332-remove-palindrome-subsequences.js">1332. Remove Palindromic Subsequences</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1356-sort-integers-by-the-number-of-1-bits.js">1356. Sort Integers by The Number of 1 Bits</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
