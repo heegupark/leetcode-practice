@@ -246,4 +246,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1370-increasing-decreasing-string.js">1370. Increasing Decreasing String</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1374-generate-a-string-with-characters-that-have-odd-counts.js">1374. Generate a String With Characters That Have Odd Counts</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
