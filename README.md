@@ -248,4 +248,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1374-generate-a-string-with-characters-that-have-odd-counts.js">1374. Generate a String With Characters That Have Odd Counts</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1385-find-the-distance-value-between-two-arrays.js">1385. Find the Distance Value Between Two Arrays</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
