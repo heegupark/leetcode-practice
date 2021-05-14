@@ -250,4 +250,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1385-find-the-distance-value-between-two-arrays.js">1385. Find the Distance Value Between Two Arrays</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1394-find-lucky-integer-in-an-array.js">1394. Find Lucky Integer in an Array</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
