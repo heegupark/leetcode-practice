@@ -254,4 +254,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1408-string-matching-in-an-array.js">1408. String Matching in an Array</a>
 
-### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1413-miimum-value-to-get-positive-step-by-step.js">1413. Miimum Value To Get Positive Step By Step</a>
+
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring</a>
