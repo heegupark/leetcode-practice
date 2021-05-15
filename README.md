@@ -252,4 +252,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1394-find-lucky-integer-in-an-array.js">1394. Find Lucky Integer in an Array</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1408-string-matching-in-an-array.js">1408. String Matching in an Array</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring">1668. Maximum Repeating Substring</a>
