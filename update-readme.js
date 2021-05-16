@@ -3,7 +3,7 @@ const fs = require('fs');
 // require('events').EventEmitter.defaultMaxListeners = 0;
 
 const folder = './';
-const outputFileName = 'test.md';
+const outputFileName = 'README1.md';
 const execSync = require('child_process').execSync;
 
 const getNewestFile = (files, path) => {
