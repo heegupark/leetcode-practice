@@ -90,6 +90,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1446-consecutive-characters.js">1446. Consecutive Characters.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.js">1455. Check If A Word Occurs As A Prefix Of Any Word In A Sentence.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
