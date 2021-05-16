@@ -36,16 +36,16 @@ fs.readdir(folder, (err, files) => {
       const tempTitle = getTitle(file);
       if(Number.isInteger(Number(file.split('-')[0]))) {
         const title = `${tempTitle.shift()}. ${tempTitle.join(' ')}`;
-        const line = `### <a href="https://github.com/heegupark/leetcode-practice/blob/main/${file}.js">${title}</a>`;
+        const line = `### <a href="https://github.com/heegupark/leetcode-practice/blob/main/${file}">${title}</a>`;
         stream.write("\r\n" + line + "\r\n");
       }
     });
   });
 });
 
-const add = execSync('git add .', { encoding: 'utf-8' });
-const commit = execSync(`git commit -m "Added ${mostRecentFile}"`, { encoding: 'utf-8' });
-const push = execSync('git push origin main', { encoding: 'utf-8' });
-console.log('git add', add);
-console.log('git commit', commit);
-console.log('git push', push);
+// const add = execSync('git add .', { encoding: 'utf-8' });
+// const commit = execSync(`git commit -m "Added ${mostRecentFile}"`, { encoding: 'utf-8' });
+// const push = execSync('git push origin main', { encoding: 'utf-8' });
+// console.log('git add', add);
+// console.log('git commit', commit);
+// console.log('git push', push);
