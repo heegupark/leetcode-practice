@@ -50,9 +50,9 @@ exec('git add .', (err, stdout, stderr) => {
   console.log(stdout);
   console.log('"git add" was successful.');
   console.log('Trying to "git commit -m"');
-  exec(`git commit -m "${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
+  exec(`git commit -m "Added ${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
     if (err) {
-      console.error(`error in executing "git commit -m "${getTitle(mostRecentFile)}"`);
+      console.error(`error in executing "git commit -m "Added ${getTitle(mostRecentFile).join('')}"`);
       return;
     }
     console.log(stdout);
