@@ -36,6 +36,7 @@ fs.readdir(folder, (err, files) => {
         const title = `${tempTitle.shift()}. ${tempTitle.join(' ')}`;
         const line = `### <a href="https://github.com/heegupark/leetcode-practice/blob/main/${file}">${title}</a>`;
         stream.write("\r\n" + line + "\r\n");
+        console.log(`${line} was added.`)
       }
     });
     console.log("Updating README.md file is completed.");
