@@ -88,6 +88,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1441-build-an-array-with-stack-operations.js">1441. Build An Array With Stack Operations.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1446-consecutive-characters.js">1446. Consecutive Characters.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
