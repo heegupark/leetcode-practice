@@ -4,9 +4,9 @@ const fs = require('fs');
 
 const folder = './';
 const outputFileName = 'test.md';
-const exec = require('child_process').exec;
+const execSync = require('child_process').execSync;
 
-fs.unlinkSync(`${folder}${outputFileName}`);
+if(fs.existsSync(`${folder}${outputFileName}`)) fs.unlinkSync(`${folder}${outputFileName}`);
 
 fs.readdir(folder, (err, files) => {
   let stream = fs.createWriteStream(outputFileName, {'flags': 'a'});
@@ -25,6 +25,19 @@ fs.readdir(folder, (err, files) => {
 });
 
 // const name = process.argv[2];
-exec('git add .');
-exec('git commit -m "Updated"');
-exec('git push origin main');
+const add = execSync('git add .', { encoding: 'utf-8' });  // the default is 'buffer'
+const commit = execSync('git commit -m "Updated"', { encoding: 'utf-8' });  // the default is 'buffer'
+const push = execSync('git push origin main', { encoding: 'utf-8' });  // the default is 'buffer'
+console.log('git add', add)
+console.log('git commit', commit)
+console.log('git push', push)
+// exec('git add .',
+//     function (error, stdout, stderr) {
+//         console.log('stdout: ' + stdout);
+//         console.log('stderr: ' + stderr);
+//         if (error !== null) {
+//              console.log('exec error: ' + error);
+//         }
+//     });
+// exec('git commit -m "Updated"');
+// exec('git push origin main');
