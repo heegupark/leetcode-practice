@@ -1,10 +1,7 @@
 const fs = require('fs');
-//1668-maximum-repeating-substring
-// require('events').EventEmitter.defaultMaxListeners = 0;
 
 const folder = './';
 const outputFileName = 'README.md';
-const execSync = require('child_process').execSync;
 
 const getNewestFile = (files, path) => {
     var out = [];
@@ -42,10 +39,3 @@ fs.readdir(folder, (err, files) => {
     });
   });
 });
-
-// const add = execSync('git add .', { encoding: 'utf-8' });
-// const commit = execSync(`git commit -m "Added ${mostRecentFile}"`, { encoding: 'utf-8' });
-// const push = execSync('git push origin main', { encoding: 'utf-8' });
-// console.log('git add', add);
-// console.log('git commit', commit);
-// console.log('git push', push);
