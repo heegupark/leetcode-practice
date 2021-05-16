@@ -51,7 +51,7 @@ setTimeout(() => {
     console.log(stdout);
     console.log('"git add" was successful.');
     console.log('Trying to "git commit -m"');
-    exec(`git commit -m "Added ${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
+    exec(`git commit -m "Added ${getTitle(mostRecentFile).shift()} ${getTitle(mostRecentFile).join('')}"`, (err, stdout, stderr) => {
       if (err) {
         console.error(`error in executing "git commit -m "Added ${getTitle(mostRecentFile).join('')}"`);
         return;
