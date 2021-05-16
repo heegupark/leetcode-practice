@@ -47,23 +47,23 @@ exec('git add .', (err, stdout, stderr) => {
     console.error('error in executing "git add ."');
     return;
   }
-
+  console.log(stdout);
   console.log('"git add" was successful.');
-  console.log('Trying to "git commit -m "');
+  console.log('Trying to "git commit -m"');
   exec(`git commit -m "${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
     if (err) {
       console.error(`error in executing "git commit -m "${getTitle(mostRecentFile)}"`);
       return;
     }
-
+    console.log(stdout);
     console.log('"git commit" was successful.');
-    console.log('Trying to "git push origin main "');
+    console.log('Trying to "git push origin main"');
     exec('git push origin main', (err, stdout, stderr) => {
       if (err) {
         console.error('git push origin main');
         return;
       }
-
+      console.log(stdout);
       console.log('git push origin main was successful.');
     });
   });
