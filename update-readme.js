@@ -38,9 +38,9 @@ fs.readdir(folder, (err, files) => {
         stream.write("\r\n" + line + "\r\n");
       }
     });
+    console.log("Updating README.md file is completed.");
   });
 });
-
 
 exec('git add .', (err, stdout, stderr) => {
   if (err) {
