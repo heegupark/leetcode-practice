@@ -36,36 +36,37 @@ fs.readdir(folder, (err, files) => {
         const title = `${tempTitle.shift()}. ${tempTitle.join(' ')}`;
         const line = `### <a href="https://github.com/heegupark/leetcode-practice/blob/main/${file}">${title}</a>`;
         stream.write("\r\n" + line + "\r\n");
-        console.log(`${line} was added.`)
       }
     });
     console.log("Updating README.md file is completed.");
   });
 });
 
-exec('git add .', (err, stdout, stderr) => {
-  if (err) {
-    console.error('error in executing "git add ."');
-    return;
-  }
-  console.log(stdout);
-  console.log('"git add" was successful.');
-  console.log('Trying to "git commit -m"');
-  exec(`git commit -m "Added ${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
+setTimeout(() => {
+  exec('git add .', (err, stdout, stderr) => {
     if (err) {
-      console.error(`error in executing "git commit -m "Added ${getTitle(mostRecentFile).join('')}"`);
+      console.error('error in executing "git add ."');
       return;
     }
     console.log(stdout);
-    console.log('"git commit" was successful.');
-    console.log('Trying to "git push origin main"');
-    exec('git push origin main', (err, stdout, stderr) => {
+    console.log('"git add" was successful.');
+    console.log('Trying to "git commit -m"');
+    exec(`git commit -m "Added ${getTitle(mostRecentFile)}"`, (err, stdout, stderr) => {
       if (err) {
-        console.error('git push origin main');
+        console.error(`error in executing "git commit -m "Added ${getTitle(mostRecentFile).join('')}"`);
         return;
       }
       console.log(stdout);
-      console.log('git push origin main was successful.');
+      console.log('"git commit" was successful.');
+      console.log('Trying to "git push origin main"');
+      exec('git push origin main', (err, stdout, stderr) => {
+        if (err) {
+          console.error('git push origin main');
+          return;
+        }
+        console.log(stdout);
+        console.log('git push origin main was successful.');
+      });
     });
   });
-});
+}, 2000);
