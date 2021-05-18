@@ -94,6 +94,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1460-make-two-arrays-equal-by-reversing-subarrays.js">1460. Make Two Arrays Equal By Reversing Subarrays.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1475-final-pricing-with-a-special-discount-in-a-shop.js">1475. Final Pricing With A Special Discount In A Shop.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
