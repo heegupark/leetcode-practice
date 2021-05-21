@@ -100,6 +100,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1496-path-crossing.js">1496. Path Crossing.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1502-can-make-arithmetic-progression-from-sequence.js">1502. Can Make Arithmetic Progression From Sequence.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
