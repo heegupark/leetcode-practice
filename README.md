@@ -112,6 +112,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1550-three-consecutive-odds.js">1550. Three Consecutive Odds.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1592-rearrange-spaces-between-words.js">1592. Rearrange Spaces Between Words.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
