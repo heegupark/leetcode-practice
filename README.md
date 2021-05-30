@@ -120,6 +120,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1619-mean-of-array-after-removing-some-elements.js">1619. Mean Of Array After Removing Some Elements.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1624-largest-substring-between-two-equal-characters.js">1624. Largest Substring Between Two Equal Characters.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/167-two-sum-II-input-array-is-sorted.js">167. Two Sum II Input Array Is Sorted.js</a>
