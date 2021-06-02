@@ -124,6 +124,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1629-slowest-key.js">1629. Slowest Key.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1636-sort-array-by-increasing-frequency.js">1636. Sort Array By Increasing Frequency.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/167-two-sum-II-input-array-is-sorted.js">167. Two Sum II Input Array Is Sorted.js</a>
