@@ -134,6 +134,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/169-majority-element.js">169. Majority Element.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1694-reformat-phone-number.js">1694. Reformat Phone Number.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/171-excel-sheet-column-number.js">171. Excel Sheet Column Number.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/20-valid-parentheses.js">20. Valid Parentheses.js</a>
