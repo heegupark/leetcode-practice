@@ -138,6 +138,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/171-excel-sheet-column-number.js">171. Excel Sheet Column Number.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1710-maximum-units-on-a-truck.js">1710. Maximum Units On A Truck.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/20-valid-parentheses.js">20. Valid Parentheses.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/219-contains-duplicate-II.js">219. Contains Duplicate II.js</a>
