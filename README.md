@@ -142,6 +142,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1716-total-money.js">1716. Total Money.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1736-latest-time-by-replacing-hidden-digits.js">1736. Latest Time By Replacing Hidden Digits.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1742-maximum-number-of-balls-in-a-box.js">1742. Maximum Number Of Balls In A Box.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1748-sum-of-unique-elements.js">1748. Sum Of Unique Elements.js</a>
