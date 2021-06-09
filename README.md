@@ -148,6 +148,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1748-sum-of-unique-elements.js">1748. Sum Of Unique Elements.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones.js">1784. Check If Binary String Has At Most One Segment Of Ones.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/20-valid-parentheses.js">20. Valid Parentheses.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/219-contains-duplicate-II.js">219. Contains Duplicate II.js</a>
