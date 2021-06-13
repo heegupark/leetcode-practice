@@ -212,6 +212,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/504-base-7.js">504. Base 7.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/507-perfect-number.js">507. Perfect Number.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/509-fibonacci-number.js">509. Fibonacci Number.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/521-longest-uncommon-subsequence-i.js">521. Longest Uncommon Subsequence I.js</a>
