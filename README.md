@@ -174,6 +174,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/26-remove-duplicates-from-sorted-array.js">26. Remove Duplicates From Sorted Array.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/263-ugly-number.js">263. Ugly Number.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/27-remove-element.js">27. Remove Element.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/290-word-pattern.js">290. Word Pattern.js</a>
