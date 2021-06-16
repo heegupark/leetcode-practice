@@ -304,6 +304,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/844-backspace-string-compare.js">844. Backspace String Compare.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/859-buddy-strings.js">859. Buddy Strings.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/867-transpose-matrix.js">867. Transpose Matrix.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/876-middle-of-the-linked-list.js">876. Middle Of The Linked List.js</a>
