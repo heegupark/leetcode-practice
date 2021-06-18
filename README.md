@@ -244,6 +244,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/590-nary-tree-postorder-traversal.js">590. Nary Tree Postorder Traversal.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/605-can-place-flowers.js">605. Can Place Flowers.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/606-construct-string-from-binary-tree.js">606. Construct String From Binary Tree.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/617-merge-two-binary-trees.js">617. Merge Two Binary Trees.js</a>
