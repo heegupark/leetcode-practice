@@ -242,6 +242,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/575-distribute-candies.js">575. Distribute Candies.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/58-length-of-last-word.js">58. Length Of Last Word.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/589-nary-tree-preorder-traversal.js">589. Nary Tree Preorder Traversal.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/590-nary-tree-postorder-traversal.js">590. Nary Tree Postorder Traversal.js</a>
