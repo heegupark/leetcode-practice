@@ -336,6 +336,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/908-smallest-range-I.js">908. Smallest Range I.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/914-x-of-a-kind-in-a-deck-of-cards.js">914. X Of A Kind In A Deck Of Cards.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/917-reverse-only-letters.js">917. Reverse Only Letters.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/922-sort-array-by-parity-II.js">922. Sort Array By Parity II.js</a>
