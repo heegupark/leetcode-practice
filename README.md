@@ -272,6 +272,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/682-baseball-game.js">682. Baseball Game.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/69-sqrt-x.js">69. Sqrt X.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/693-binary-number-with-alternating-bits.js">693. Binary Number With Alternating Bits.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/696-count-binary-substrings.js">696. Count Binary Substrings.js</a>
