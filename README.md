@@ -302,6 +302,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/762-prime-number-of-set-bits-in-binary-representation.js">762. Prime Number Of Set Bits In Binary Representation.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/792-numbers-of-matching-subsequences.js">792. Numbers Of Matching Subsequences.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/796-rotate-string.js">796. Rotate String.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/806-number-of-lines-to-write-string.js">806. Number Of Lines To Write String.js</a>
