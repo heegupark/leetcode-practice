@@ -122,6 +122,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1598-crawler-log-folder.js">1598. Crawler Log Folder.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/16-3sum-closest.js">16. 3sum Closest.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/160-intersection-of-two-linked-lists.js">160. Intersection Of Two Linked Lists.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1619-mean-of-array-after-removing-some-elements.js">1619. Mean Of Array After Removing Some Elements.js</a>
