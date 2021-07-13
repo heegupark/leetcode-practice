@@ -194,6 +194,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/27-remove-element.js">27. Remove Element.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/29-divide-two-intergers.js">29. Divide Two Intergers.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/290-word-pattern.js">290. Word Pattern.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/292-nim-game.js">292. Nim Game.js</a>
