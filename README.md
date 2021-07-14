@@ -128,6 +128,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1619-mean-of-array-after-removing-some-elements.js">1619. Mean Of Array After Removing Some Elements.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/162-find-peak-element.js">162. Find Peak Element.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1624-largest-substring-between-two-equal-characters.js">1624. Largest Substring Between Two Equal Characters.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1629-slowest-key.js">1629. Slowest Key.js</a>
