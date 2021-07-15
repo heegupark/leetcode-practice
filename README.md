@@ -296,6 +296,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/657-robot-return-origin.js">657. Robot Return Origin.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/67-add-binary.js">67. Add Binary.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/671-second-minimum-node-in-a-binary-tree.js">671. Second Minimum Node In A Binary Tree.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/674-longest-continuous-increasing-subsequence.js">674. Longest Continuous Increasing Subsequence.js</a>
