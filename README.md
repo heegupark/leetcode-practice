@@ -230,6 +230,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/459-repeated-substring-pattern.js">459. Repeated Substring Pattern.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/46-permutations.js">46. Permutations.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/461-hamming-distance.js">461. Hamming Distance.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/476-number-complement.js">476. Number Complement.js</a>
