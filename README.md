@@ -202,6 +202,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/292-nim-game.js">292. Nim Game.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/33-search-in-rotated-sorted-array.js">33. Search In Rotated Sorted Array.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/342-power-of-four.js">342. Power Of Four.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/345-reverse-vowels-of-a-string.js">345. Reverse Vowels Of A String.js</a>
