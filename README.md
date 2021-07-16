@@ -92,6 +92,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1437-check-if-all-1s-are-at-least-length-k-places-away.js">1437. Check If All 1s Are At Least Length K Places Away.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/144-binary-tree-preorder-traversal.js">144. Binary Tree Preorder Traversal.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1441-build-an-array-with-stack-operations.js">1441. Build An Array With Stack Operations.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1446-consecutive-characters.js">1446. Consecutive Characters.js</a>
