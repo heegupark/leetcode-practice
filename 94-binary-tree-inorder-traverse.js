@@ -15,7 +15,7 @@
 var inorderTraversal = function(root) {
     const result = [];
     const dfs = (root) => {
-        if(root != null) {
+        if(root !== null) {
             dfs(root.left);
             result.push(root.val);
             dfs(root.right);
