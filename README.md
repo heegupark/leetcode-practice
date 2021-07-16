@@ -42,6 +42,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1160-find-words-that-can-be-formed-by-characters.js">1160. Find Words That Can Be Formed By Characters.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/118-pascal-triangle.js">118. Pascal Triangle.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1185-day-of-the-week.js">1185. Day Of The Week.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1189-maximum-number-of-balloons.js">1189. Maximum Number Of Balloons.js</a>
