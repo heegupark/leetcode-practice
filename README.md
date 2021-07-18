@@ -260,6 +260,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/476-number-complement.js">476. Number Complement.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/485-max-consecutive-ones.js">485. Max Consecutive Ones.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/496-next-greater-element-I.js">496. Next Greater Element I.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/50-pow(x,n).js">50. Pow(x,n).js</a>
