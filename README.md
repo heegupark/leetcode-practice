@@ -222,6 +222,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/374-guess-number-higher-or-lower.js">374. Guess Number Higher Or Lower.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/383-ransom-note.js">383. Ransom Note.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/389-find-the-difference.js">389. Find The Difference.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/39-combination-sum.js">39. Combination Sum.js</a>
