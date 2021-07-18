@@ -278,6 +278,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/509-fibonacci-number.js">509. Fibonacci Number.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/520-detect-capital.js">520. Detect Capital.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/521-longest-uncommon-subsequence-i.js">521. Longest Uncommon Subsequence I.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/530-minimum-absolute-difference-in-bst.js">530. Minimum Absolute Difference In Bst.js</a>
