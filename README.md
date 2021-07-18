@@ -272,6 +272,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/504-base-7.js">504. Base 7.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/506-relative-ranks.js">506. Relative Ranks.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/507-perfect-number.js">507. Perfect Number.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/509-fibonacci-number.js">509. Fibonacci Number.js</a>
