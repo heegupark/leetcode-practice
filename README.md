@@ -354,6 +354,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/700-search-in-a-binary-search-tree.js">700. Search In A Binary Search Tree.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/704-binary-search.js">704. Binary Search.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/720-longest-word-in-dictionary.js">720. Longest Word In Dictionary.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/724-find-pivot-index.js">724. Find Pivot Index.js</a>
