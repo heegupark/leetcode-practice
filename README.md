@@ -242,6 +242,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/415-add-strings.js">415. Add Strings.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/43-multiply-strings.js">43. Multiply Strings.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/434-number-of-segments-in-a-string.js">434. Number Of Segments In A String.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/441-arranging-coins.js">441. Arranging Coins.js</a>
