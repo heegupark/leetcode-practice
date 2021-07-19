@@ -392,6 +392,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/867-transpose-matrix.js">867. Transpose Matrix.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/868-binary-gap.js">868. Binary Gap.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/872-leaf-similar-trees.js">872. Leaf Similar Trees.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/876-middle-of-the-linked-list.js">876. Middle Of The Linked List.js</a>
