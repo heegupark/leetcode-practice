@@ -22,11 +22,11 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-  const obj = {};
+  const map = {};
   for (let i = 0; i < nums.length; i++) {
     const remainder = target - nums[i];
-    if (remainder in obj)  return [obj[remainder], i];
-    obj[nums[i]] = i;
+    if (remainder in map)  return [map[remainder], i];
+    map[nums[i]] = i;
   }
   return [];
 };
