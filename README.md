@@ -434,4 +434,6 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/989-add-to-array-form-of-integer.js">989. Add To Array Form Of Integer.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/99-recover-binary-search-tree.js">99. Recover Binary Search Tree.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/997-find-the-town-judge.js">997. Find The Town Judge.js</a>
