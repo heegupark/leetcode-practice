@@ -31,7 +31,7 @@ var combinationSum2 = function(candidates, target) {
     const sum = (arr) => arr.reduce((a,b) => a+b,0);
     const isInArray = (arr, sub) => {
         sub.sort((a, b) => a-b);
-        return arr.some(subarr => subarr.every((element, index) => element == sub[index]));
+        return arr.some(subarr => subarr.every((element, index) => element === sub[index]));
     }
     const helper = (array) => {
         if(sum(array) > target) return;
