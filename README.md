@@ -432,6 +432,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/944-delete-column-to-make-sorted.js">944. Delete Column To Make Sorted.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/96-unique-binary-search-trees.js">96. Unique Binary Search Trees.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/961-n-repeated-element-in-size-2n-array.js">961. N Repeated Element In Size 2n Array.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/965-univalued-binary-tree.js">965. Univalued Binary Tree.js</a>
