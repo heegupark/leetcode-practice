@@ -24,6 +24,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1051-height-checker.js">1051. Height Checker.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/106-construct-binary-tree-from-inorder-and-postorder-traversal.js">106. Construct Binary Tree From Inorder And Postorder Traversal.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1078-occurrences-after-bigram.js">1078. Occurrences After Bigram.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/110-balanced-binary-tree.js">110. Balanced Binary Tree.js</a>
