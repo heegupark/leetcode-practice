@@ -130,6 +130,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1523-count-odd-numbers-in-an-inerval-range.js">1523. Count Odd Numbers In An Inerval Range.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/153-find-minimun-rotated-sorted-array.js">153. Find Minimun Rotated Sorted Array.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1539-kth-missing-positive-number.js">1539. Kth Missing Positive Number.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1544-make-the-string-great.js">1544. Make The String Great.js</a>
