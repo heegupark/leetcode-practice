@@ -160,6 +160,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1652-defuse-the-bomb.js">1652. Defuse The Bomb.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/166-fraction-to-recurring-decimal.js">166. Fraction To Recurring Decimal.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1668-maximum-repeating-substring.js">1668. Maximum Repeating Substring.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/167-two-sum-II-input-array-is-sorted.js">167. Two Sum II Input Array Is Sorted.js</a>
