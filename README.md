@@ -194,6 +194,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones.js">1784. Check If Binary String Has At Most One Segment Of Ones.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/179-largest-number.js">179. Largest Number.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1805-number-of-different-integers-in-a-string.js">1805. Number Of Different Integers In A String.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/20-valid-parentheses.js">20. Valid Parentheses.js</a>
