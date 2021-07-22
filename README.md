@@ -292,6 +292,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/496-next-greater-element-I.js">496. Next Greater Element I.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/5-longest-palindromic-substring.js">5. Longest Palindromic Substring.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/50-pow(x,n).js">50. Pow(x,n).js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/500-keyboard-row.js">500. Keyboard Row.js</a>
