@@ -13,7 +13,8 @@
 
 // Example 3:
 // Input: p = [1,2,1], q = [1,1,2]
-// Output: false/**
+// Output: false
+/**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
  *     this.val = (val===undefined ? 0 : val)
