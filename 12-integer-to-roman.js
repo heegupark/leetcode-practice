@@ -42,14 +42,14 @@
  * @return {string}
  */
 var intToRoman = function(num) {
-    let res = '', i = 0;
-    let nums = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
-    let letters = ['M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I'];
+    let result = '', i = 0;
+    const nums = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
+    const letters = ['M', 'CM', 'D', 'CD', 'C', 'XC', 'L', 'XL', 'X', 'IX', 'V', 'IV', 'I'];
     while (num > 0){
         if (num - nums[i] >= 0){
-            res += letters[i];
+            result += letters[i];
             num -= nums[i];
         } else i++;
     }
-    return res;
+    return result;
 };
