@@ -38,7 +38,7 @@ var combinationSum2 = function(candidates, target) {
         if(isInArray(results, array)) return;
         if(sum(array) === target) results.push(array);
         for(let i=0;i<candidates.length;i++) {
-            if (visited[i] || (i > 0 && candidates[i] == candidates[i-1] && !visited[i-1])) continue;
+            if (visited[i] || (i > 0 && candidates[i] === candidates[i-1] && !visited[i-1])) continue;
             visited[i] = true;
             helper([...array, candidates[i]]);
             visited[i] = false;
