@@ -92,6 +92,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1394-find-lucky-integer-in-an-array.js">1394. Find Lucky Integer In An Array.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/14-longest-common-prefix.js">14. Longest Common Prefix.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1408-string-matching-in-an-array.js">1408. String Matching In An Array.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/1413-miimum-value-to-get-positive-step-by-step.js">1413. Miimum Value To Get Positive Step By Step.js</a>
