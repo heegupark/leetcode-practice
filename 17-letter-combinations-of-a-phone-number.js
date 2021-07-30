@@ -14,14 +14,13 @@
 // Example 3:
 // Input: digits = "2"
 // Output: ["a","b","c"]
-
 /**
  * @param {string} digits
  * @return {string[]}
  */
 var letterCombinations = function(digits) {
     const result = [];
-    if(digits === "")  return result;
+    if(digits === '')  return result;
     const phone = {
         2: 'abc',
         3: 'def',
@@ -33,13 +32,10 @@ var letterCombinations = function(digits) {
         9: 'wxyz',
     };
     const dfs = (current, digit) => {
-        if(digit === digits.length){
-            result.push(current);
-            return;
-        }
+        if(digit === digits.length) return result.push(current);
         const str = phone[digits[digit]];
         for(let i = 0; i < str.length; i++) dfs(current + str[i], digit + 1);
     };
-    dfs("", 0);
+    dfs('', 0);
     return result;
 };
