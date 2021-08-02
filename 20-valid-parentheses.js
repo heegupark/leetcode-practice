@@ -7,19 +7,15 @@
 // Example 1:
 // Input: s = "()"
 // Output: true
-
 // Example 2:
 // Input: s = "()[]{}"
 // Output: true
-
 // Example 3:
 // Input: s = "(]"
 // Output: false
-
 // Example 4:
 // Input: s = "([)]"
 // Output: false
-
 // Example 5:
 // Input: s = "{[]}"
 // Output: true
@@ -28,20 +24,17 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    const result = []
-    const array = s.split('')
+    const result = [];
+    const array = s.split('');
     while(array.length) {
-        let c = array.shift()
-        if(c === '(') {
-            result.push(')')
-        } else if(c === '{') {
-            result.push('}')
-        } else if(c === '[') {
-            result.push(']')
-        } else {
-            if(c === result.pop()) continue
-            else return false
+        let c = array.shift();
+        if(c === '(') result.push(')');
+        else if(c === '{') result.push('}');
+        else if(c === '[') result.push(']');
+        else {
+            if(c === result.pop()) continue;
+            else return false;
         }
     }
-    return result.length === 0
+    return result.length === 0;
 };
