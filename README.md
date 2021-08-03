@@ -220,6 +220,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/219-contains-duplicate-II.js">219. Contains Duplicate II.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/22-generate-parentheses.js">22. Generate Parentheses.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/226-invert-binary-tree.js">226. Invert Binary Tree.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/228-summary-ranges.js">228. Summary Ranges.js</a>
