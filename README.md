@@ -248,6 +248,8 @@ Leetcode problem practice(JavaScript)
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/3-longest-substring-without-repeating-characters.js">3. Longest Substring Without Repeating Characters.js</a>
 
+### <a href="https://github.com/heegupark/leetcode-practice/blob/main/31-next-permutation.js">31. Next Permutation.js</a>
+
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/33-search-in-rotated-sorted-array.js">33. Search In Rotated Sorted Array.js</a>
 
 ### <a href="https://github.com/heegupark/leetcode-practice/blob/main/34-find-first-and-last-position-of-element-in-an-array.js">34. Find First And Last Position Of Element In An Array.js</a>
